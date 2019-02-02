@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Type Error?! What in the World?"
-date:       2019-02-02 02:13:13 +0000
+date:       2019-02-01 21:13:14 -0500
 permalink:  type_error_what_in_the_world
 ---
 
